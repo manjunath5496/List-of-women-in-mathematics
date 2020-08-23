@@ -1,6 +1,6 @@
-<div id="toc" class="toc plainlinks hlist">
-<div id="toctitle" class="toctitle"><strong><span id="tocheading">Contents</span></strong></div>
-<div>
+<h2>List of women in mathematics </h2>
+<p><strong><span id="tocheading">Contents</span></strong></p>
+
 <ul>
 <li><a href="#A">A</a></li>
 <li><a href="#B">B</a></li>
